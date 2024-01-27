@@ -318,6 +318,7 @@ trainerCardContainer.addEventListener("click", (event) => {
     }
 });
 
+
 //ЛІСТЕНЕР ДЛЯ СОРТУВАННЯ ПО НАТИСКАННЮ НА КНОПКИ СОРТУВАННЯ "ЗА ПРІЗВИЩЕМ" ТА "ЗА ДОСВІДОМ"
 sortedForm.addEventListener("click", (event) => {
     const target = event.target;
